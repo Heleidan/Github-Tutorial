@@ -14,7 +14,9 @@
 # $ git commit -m "type a commit message"
 # $ git push -u origin main
 
-# In[1]:
+# in case of branch stucking use
+# $ git pull --rebase origin main
+# $ git push origin main
 
 import tkinter as tk
 class Calculator:
