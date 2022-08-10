@@ -1,10 +1,14 @@
-#!/usr/bin/env python
-# coding: utf-8
-#>Create and link a github repo
+
+# > Link a Github repo git git through SSH 
 # $ git init
 # > Add "file" and commit
-# > git config --config carlos.avila5333@alumnos.udg.mx 
-# # git config --config user.name heleidan 
+# > git config --global user.mail carlos.avila5333@alumnos.udg.mx 
+# $ git config --global user.name heleidan 
+# $ git branch -M main
+# $ git remote add origin https://github.com/Heleidan/GUI-Calculator-in-Python3.git
+# $ git push -u origin main
+
+
 # Nuevo cambio al repositorio: 
 # $ git add "/file"
 # $ git commit -m "type a commit message"
