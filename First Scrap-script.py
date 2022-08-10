@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 #>Create and link a github repo
+# $ git init
+# > Add "file" and commit
+# > git config --config carlos.avila5333@alumnos.udg.mx 
+# # git config --config user.name heleidan 
 # Nuevo cambio al repositorio: 
 # $ git add "/file"
 # $ git commit -m "type a commit message"
